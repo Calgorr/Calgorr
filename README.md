@@ -72,6 +72,4 @@
   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calgorr&amp;langs_count=10&amp;layout=compact&amp;theme=github_dark" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=calgorr&amp;langs_count=10&amp;layout=compact&amp;theme=github_dark" style="max-width: 100%;">
-  
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=calgorr&amp;theme=react-dark" alt="activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=calgorr&amp;theme=react-dark" style="max-width: 100%;">
+ 
